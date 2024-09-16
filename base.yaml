@@ -1,0 +1,6 @@
+backend_type: "NewFFNN"
+hidden_size: 64
+num_layers: 4
+sigmoid: False
+dropout: 0.5
+output_dim: 64
